@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Up-Banking/static/css/main.6d6e155c.chunk.css",
+    "main.js": "/Up-Banking/static/js/main.1c004903.chunk.js",
+    "main.js.map": "/Up-Banking/static/js/main.1c004903.chunk.js.map",
+    "runtime-main.js": "/Up-Banking/static/js/runtime-main.d89f5797.js",
+    "runtime-main.js.map": "/Up-Banking/static/js/runtime-main.d89f5797.js.map",
+    "static/js/2.65b8a90b.chunk.js": "/Up-Banking/static/js/2.65b8a90b.chunk.js",
+    "static/js/2.65b8a90b.chunk.js.map": "/Up-Banking/static/js/2.65b8a90b.chunk.js.map",
+    "index.html": "/Up-Banking/index.html",
+    "precache-manifest.a09d9d76eb32f067bc32708cfd99c6b9.js": "/Up-Banking/precache-manifest.a09d9d76eb32f067bc32708cfd99c6b9.js",
+    "service-worker.js": "/Up-Banking/service-worker.js",
+    "static/css/main.6d6e155c.chunk.css.map": "/Up-Banking/static/css/main.6d6e155c.chunk.css.map",
+    "static/js/2.65b8a90b.chunk.js.LICENSE.txt": "/Up-Banking/static/js/2.65b8a90b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89f5797.js",
+    "static/js/2.65b8a90b.chunk.js",
+    "static/css/main.6d6e155c.chunk.css",
+    "static/js/main.1c004903.chunk.js"
+  ]
+}
